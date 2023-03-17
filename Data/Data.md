@@ -1,4 +1,5 @@
 # IMDB Dataset
+*Kaggle link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews*
 
 ## The Data
 The IMDB dataset consists of 50,000 reviews from the Internet Movie Database.
