@@ -1,12 +1,12 @@
 # IMDB Dataset
-IMDB dataset is one of keras's datasets.
+IMDB dataset is one of keras's datasets, `keras.datasets.imdb`.
 
 ## The Data
 The IMDB dataset consists of 50,000 reviews from the Internet Movie Database.
 The dataset has 2 columns; features and targets.
 
 ## Feature Variable
-Each review is a sequence of words, which is then processed into a sequence of integers, each integer standing for a specific word in the dictionary.
+Each review is a sequence of words, which is then preprocessed into a sequence of integers, each integer standing for a specific word in the dictionary. Words are indexed according to its frequency in the dataset, thus enabling a quick filteration of opetations. For this projcet I chose the top 30,000 most common words.
 
 ## Target Variables
 0: `Negative`
