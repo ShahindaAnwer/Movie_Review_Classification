@@ -14,7 +14,8 @@ Sentiment analysis - opinion mining - is important for business intelligence as 
   - Example: 5-star rating system
 - Aspect-Based: focusing on particular aspects of a product or service.
 - Intent-Based: helps understand customer sentiment when conducting market research, picking customers interested in buying with words like discounts, deals, and reviews in monitored conversations.
-- Emotional Detection:
+- Emotional Detection: analyzing the psychological state of a person when they are writing the text.
+  -  interpret emotions include joy, anger, sadness, and regret.
 
 
 ## Challenges Facing Sentiment Analysis
