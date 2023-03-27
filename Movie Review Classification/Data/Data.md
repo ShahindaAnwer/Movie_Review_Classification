@@ -1,6 +1,8 @@
 # IMDB Dataset
 IMDB dataset is one of keras's datasets, `keras.datasets.imdb`.
 
+kaggle link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ## The Data
 The IMDB dataset consists of 50,000 reviews from the Internet Movie Database.
 The dataset has 2 columns; features and targets.
