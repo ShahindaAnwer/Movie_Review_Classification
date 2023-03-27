@@ -6,11 +6,10 @@ Movie reviews are extremely important because of their significant effect on the
 ## Model
 
 <p align="center">
-<img src = https://user-images.githubusercontent.com/62629426/228087013-a412c6b0-1520-422a-8cac-59acc59c9d13.png width = 200>
+<img src = https://user-images.githubusercontent.com/62629426/228087013-a412c6b0-1520-422a-8cac-59acc59c9d13.png width = 300>
 </p>
 
 First off, I used an embedding layer with the GloVe file glove.6B.100d.txt, which is a sentence-transformers model, that maps sentences & paragraphs to a 300 dimensional dense vector space to be used for clustering or semantic search.
-
 <p align="center">
 <img src = https://user-images.githubusercontent.com/62629426/228088212-6441a71e-cb84-4eab-8056-5a4663722c72.png width = 500>
 </p>
@@ -19,7 +18,13 @@ First off, I used an embedding layer with the GloVe file glove.6B.100d.txt, whic
                       The word embedding matrices serve as weight matrices in the model.
                       The output of the model is a vector of inner products of word vectors.
 
+I then used Gated Recurrent Unit (GRU), wich solved my vanishing gradient problem.
 
+<p align="center">
+  <img src = https://user-images.githubusercontent.com/62629426/228089859-f7d78c9c-5c91-4d3f-8445-c27d83cc1c9d.png width = 500>
+</p>
+
+                      e
 
 
 ### Libraries:
