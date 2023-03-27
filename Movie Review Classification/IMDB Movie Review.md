@@ -6,7 +6,13 @@ Movie reviews are extremely important because of their significant effect on the
 ## Model
 First off, I used an embedding layer with the GloVe file glove.6B.100d.txt, which is a sentence-transformers model, that maps sentences & paragraphs to a 300 dimensional dense vector space to be used for clustering or semantic search.
 
-![image](https://user-images.githubusercontent.com/62629426/228087013-a412c6b0-1520-422a-8cac-59acc59c9d13.png)
+<p align="center">
+<img src = https://user-images.githubusercontent.com/62629426/228088212-6441a71e-cb84-4eab-8056-5a4663722c72.png width = 500>
+</p>
+
+<p align="center">
+<img src = https://user-images.githubusercontent.com/62629426/228087013-a412c6b0-1520-422a-8cac-59acc59c9d13.png width = 500>
+</p>
 
 
 
