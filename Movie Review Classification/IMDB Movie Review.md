@@ -24,7 +24,12 @@ I then used Gated Recurrent Unit (GRU), wich solved my vanishing gradient proble
   <img src = https://user-images.githubusercontent.com/62629426/228089859-f7d78c9c-5c91-4d3f-8445-c27d83cc1c9d.png width = 500>
 </p>
 
-                      e
+Each GRU has: 
+1. Forget gate: Determines which information should be discarded
+2. Input Gate: Picks input values that would update the memory state
+3. Output Gate: Given the chosen inputs and block's memory, it decides exactly what to output
+
+    and all are conditional
 
 
 ### Libraries:
