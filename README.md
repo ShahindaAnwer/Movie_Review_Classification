@@ -9,8 +9,15 @@ Sentiment analysis is an approach to natural language processing (NLP) that iden
 
 Sentiment analysis - opinion mining - is important for business intelligence as it helps companies improve their products and services, as well as increasing brand reputation.
 
-## Types of sentiment analysis
+## Types of Sentiment Analysis
+- Fine-Grained Scoring: categorizing the text intent into multiple levels of emotion.
+  - Example: 5-star rating system
+- Aspect-Based: focusing on particular aspects of a product or service.
+- Intent-Based: helps understand customer sentiment when conducting market research, picking customers interested in buying with words like discounts, deals, and reviews in monitored conversations.
+- Emotional Detection:
 
 
-
-## Weakness
+## Challenges Facing Sentiment Analysis
+- Sarcasm: may cause ambiguity.
+- Negation: the use of negative words to convey a reversal of meaning in the sentence.
+- Multipolarity: when a sentence contains more than one sentiment. 
