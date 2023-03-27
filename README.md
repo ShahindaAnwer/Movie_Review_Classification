@@ -22,3 +22,7 @@ Sentiment analysis - opinion mining - is important for business intelligence as 
 - Sarcasm: may cause ambiguity.
 - Negation: the use of negative words to convey a reversal of meaning in the sentence.
 - Multipolarity: when a sentence contains more than one sentiment. 
+
+
+
+*Reference:* https://aws.amazon.com/what-is/sentiment-analysis/
