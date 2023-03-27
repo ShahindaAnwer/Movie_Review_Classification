@@ -20,3 +20,9 @@ Each review is a sequence of words, which is then preprocessed into a sequence o
 - 25000 reviews for testing
 
 Each set contains an equal number (50%) of positive and negative reviews.
+
+
+
+
+# glove.6B.100d.txt
+kaggle link: https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt
